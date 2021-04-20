@@ -9,6 +9,10 @@
   "author": "Xinyu",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.3",
+    "require": "^2.4.20"
   }
 }
